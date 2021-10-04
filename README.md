@@ -5,7 +5,7 @@
 
 ### About me
 
-- 🤔 I am a 42Lisbon student, currently studying C, C# and ASP.NET MVC, looking for experience and working hard.
+- 🤔 I am a 42Lisbon student, currently studying C, C++, C# and ASP.NET MVC, looking for experience and working hard.
 - 📫 How to reach me: jalves-d@outlook.com
 - 😄 From :brazil: living in :portugal:
 - ⚡ Fun fact: I was a street food seller
