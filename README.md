@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Albuquerque</h1>
 - 🔭 I’m currently working on **askblue** and studying on **42Lisboa**
 
-- 🌱 I’m currently learning **React, Angular, GraphQL and .NET**
+- 🌱 I’m currently learning **React, Angular, GraphQL, Oracle and .NET**
 
 - 💬 Ask me about **C, C# and C++**
 
@@ -19,4 +19,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jalvesd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jalvesd" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalves-d&show_icons=true&locale=en&layout=compact" alt="jalves-d" /></p>
