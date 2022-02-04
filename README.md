@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Albuquerque</h1>
 - 🔭 I’m currently working on **askblue** and studying on **42Lisboa**
 
-- 🌱 I’m currently learning **React, Angular, GraphQL, Oracle and .NET**
+- 🌱 I’m currently learning **React, Angular, GraphQL and .NET**
 
 - 💬 Ask me about **C, C# and C++**
 
